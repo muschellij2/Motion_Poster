@@ -1,0 +1,1 @@
+Motion Processing poster for [http://dx.doi.org/10.1016/j.neuroimage.2014.03.028](Reduction of motion-related artifacts in resting state fMRI using aCompCor)
